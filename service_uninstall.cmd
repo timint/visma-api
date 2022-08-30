@@ -1,0 +1,1 @@
+nssm uninstall "Visma Restful API Server" confirm

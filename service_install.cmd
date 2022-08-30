@@ -1,0 +1,1 @@
+nssm install "Visma Restful API Server" C:\VismaAPI\start.cmd
